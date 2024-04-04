@@ -1,0 +1,16 @@
+Gerenciamento de uma Escola
+ - Administrador - Global - 
+	- Cadastro de Alunos(Matricula)
+		- dados do aluno
+		- disciplinas 
+	- Cadastro do Docente(Atribuir Disciplinas)
+	
+	- filtros (Listar Alunos e Docentes)
+
+- Aluno - acesso interno(area do aluno)(user / pass)
+	- ver informações das suas disciplinas
+
+- Docente - ACESSO AREA INTERNA (user / pass)
+	  - LAnças notas para os alunos
+	  - listar alunos cadastrados em suas disciplinas
+  	
